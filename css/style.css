@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+header {
+  
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+}
+nav {
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+}
+.locals {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 0;
+}
+.local-item {
+    text-align: center;
+}
+footer {
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
