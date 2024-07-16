@@ -25,21 +25,23 @@ main{
     padding-bottom: 30px;
 }
 
+.images{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
 
+.sun{
+    transform: scale(0.5);
+}
 
-/* nav {
-    background-color: #000000;
-    color: white;
-    text-align: center;
-    padding: 10px 0;
+.sunB{
+    
 }
 
 
-.images{
-    display:flex;
-    flex-direction: column;
-    align-items: center;
-} */
+
+
 
 
 
